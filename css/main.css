@@ -1,0 +1,18 @@
+/* Fonts */
+@import "/HTML:CSS/SportSite/Fonts/bebasneue/bebasneue.css";
+@import "/HTML:CSS/SportSite/Fonts/roboto/roboto.css";
+
+/* Base */
+@import "/HTML:CSS/SportSite/css/base/reset.css";
+@import "/HTML:CSS/SportSite/css/base/base.css";
+
+/* Blocks */
+@import "/HTML:CSS/SportSite/css/blocks/header.css";
+@import "/HTML:CSS/SportSite/css/blocks/section.css";
+@import "/HTML:CSS/SportSite/css/blocks/cardTrainer.css";
+@import "/HTML:CSS/SportSite/css/blocks/section-beast.css";
+@import "/HTML:CSS/SportSite/css/blocks/button.css";
+@import "/HTML:CSS/SportSite/css/blocks/card-groups.css";
+@import "/HTML:CSS/SportSite/css/blocks/contacts.css";
+@import "/HTML:CSS/SportSite/css/blocks/form.css";
+@import "/HTML:CSS/SportSite/css/blocks/footer.css";
